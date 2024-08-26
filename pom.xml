@@ -30,7 +30,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <jjwt.version>0.4</jjwt.version>
         <spring-mobile-device>1.1.5.RELEASE</spring-mobile-device>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <org.passay>1.5.0</org.passay>
         <org.lombok>1.18.10</org.lombok>
         <org.apache.commons.collections>4.1</org.apache.commons.collections>
